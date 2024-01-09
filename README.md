@@ -11,5 +11,12 @@ the PID to send signals to it.
 - `getpid`
 - `save-pid &optional file`
 
+It works for SBCL, CCL, ECL, LispWorks and Allegro.
 
-UIOP don't want this function, so here is it.
+UIOP doesn't want this function, so here it is.
+
+# Installation
+
+This library is on [Ultralisp](https://ultralisp.org/github).
+
+WTFPL.
